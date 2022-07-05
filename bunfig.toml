@@ -1,0 +1,2 @@
+[install.scopes]
+"myorg" = { token = "abc123", url = "https://npm.pkg.github.com" }
